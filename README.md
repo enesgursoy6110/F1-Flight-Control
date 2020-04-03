@@ -1,3 +1,5 @@
+It can be used on all flight platforms. Control and telemetry design with Low Power communication module.
+
 RFM69HCW ISM TRANSCEIVER MODULE  :
 https://cdn.sparkfun.com/datasheets/Wireless/General/RFM69HCW-V1.1.pdf
 
