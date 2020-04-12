@@ -20,4 +20,3 @@ https://www.st.com/resource/en/datasheet/stm32f103c8.pdf
  
 Resources that I have used : https://www.adafruit.com/ , https://www.sparkfun.com/ , https://www.snapeda.com/home/ , https://componentsearchengine.com/
 
-#flight #controller #drone #rcplane #rocket #desing #telemetry #dıy #electronic
