@@ -21,3 +21,6 @@ https://www.st.com/resource/en/datasheet/stm32f103c8.pdf
 Resources that I have used : https://www.adafruit.com/ , https://www.sparkfun.com/ , https://www.snapeda.com/home/ , https://componentsearchengine.com/
 
 ![Banner](https://github.com/enesgursoy6110/F1-Flight-Control/blob/master/f1control.png)
+![Banner2](https://github.com/enesgursoy6110/F1-Flight-Control/blob/master/flightcontrol2.jpg)
+![Banner1](https://github.com/enesgursoy6110/F1-Flight-Control/blob/master/flightcontrol.jpg)
+
